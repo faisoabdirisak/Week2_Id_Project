@@ -56,10 +56,80 @@ h2{
 #about2 p:nth-child(2){
     font-size: 24px;
 }
+
+/* Hot Deal Section */
+.meal{
+    background-color: #C9ECB5;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 800px;
+ 
+}
+.hot{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+#h{
+  
+}
+#pics{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-bottom: 20px; 
+}
+#pics img:first-child{
+    margin-left: 0;
+    height: auto;
+    width: auto;
+  
+}
+#pics img:nth-child(2){
+    margin-left: -360px;
+    height: auto;
+    width: auto;
+    margin-top: 270px;
+ 
+}
+#combo{
+    color:black;
+    margin-top: 150px;
+    margin-right: 100px;
+    width: 700px;
+    height: 260px;
+    
+}
+#del{
+    color: #6CB840;
+    font-weight: bolder;
+}
+#combo-p1{
+   font-size: 40px;
+   color: #6CB840;
+   font-weight: bold;
+
+}
+#combo-p2{
+   font-weight: bold;
+   font-size: 24px;
+}
+#combo-p3{
+   font-size: 20px;
+   text-align: center;
+}
+div #combo-p3{
+   width: 400px;
+}
+   
+
+
 /* contact section */
 .contact{
     background-color:  #FFD77C;
-    margin: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: -38px;
     height: 500px;
     
     }
@@ -103,3 +173,4 @@ h2{
         color: #6CB840;
         font-weight: bolder;
     }
+    
