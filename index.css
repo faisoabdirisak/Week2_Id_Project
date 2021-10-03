@@ -444,3 +444,25 @@ height: 200px;
 margin-top: 90px;
 margin-left: 80px;
 }
+#foo{
+   
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    height: 200px;
+    margin-top: 90px;
+    margin-right: 80px;
+    }
+    #foo img{
+        height: 50px;
+        width: 50px;
+    
+    }
+    #fo1 p:first-child{
+        font-size: 20px;
+        font-weight: bolder;
+    }
+    #fo1 p:nth-child(3){
+        font-size: 20px;
+        font-weight: bolder;
+    }
