@@ -13,7 +13,7 @@
 + [Authors Info](#author-Info)
 
 ## Description
-<p>This shows a restaurant website i have created.It contains all my background information,some sample projects that I have worked on and the experience gained.</p>
+<p>This shows a restaurant website i have created. It is a site where a client can place an order and is delivered to them.</p>
 
 ## Installation
 
