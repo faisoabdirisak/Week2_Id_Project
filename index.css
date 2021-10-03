@@ -466,3 +466,28 @@ margin-left: 80px;
         font-size: 20px;
         font-weight: bolder;
     }
+    #foo1{
+        padding-top: 20px;
+    }
+    #foo1 p:first-child{
+            font-size: 20px;
+            font-weight: bolder
+    }
+    #foo2{
+        padding-top: 20px;
+        padding-left: 10px;
+    }
+    #send-btn{
+        height: 20px;
+        width: 60px; 
+        border: transparent;
+        text-align: center;
+        background-color: #6CB840;
+        margin-top: 5%;
+        margin-right: 2%;
+        padding: auto;
+        color: white;
+        font-weight: 700;
+    
+    
+    }
