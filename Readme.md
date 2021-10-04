@@ -14,6 +14,7 @@
 
 ## Description
 <p>This shows a restaurant website i have created. It is a site where a client can place an order and is delivered to them.</p>
+<img src="Screenshot from 2021-10-04 08-14-54.png" hight="400px" width="400px">
 
 ## Installation
 
